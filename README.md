@@ -1,3 +1,3 @@
 # Hotel-Management-System
 
-<img src="https://raw.githubusercontent.com/Ekaram-13/Hotel-Management-System/refs/heads/main/screenshot/ss1.png" width="480">
+![Image](https://github.com/user-attachments/assets/a868043c-cbaf-40f2-ad69-aa50fca9d14b)
